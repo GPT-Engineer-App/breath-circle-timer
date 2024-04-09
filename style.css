@@ -10,9 +10,9 @@
 
 @keyframes countdown {
   from {
-    stroke-dashoffset: 141.5;
+    stroke-dashoffset: 283;
   }
   to {
-    stroke-dashoffset: -141.5;
+    stroke-dashoffset: 0;
   }
 }
